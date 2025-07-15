@@ -205,5 +205,5 @@ This entire ADF pipeline runs smoothly at a cost of only **₹30 / 2 days** if y
 
 ---
 
-If you liked this breakdown or found it helpful, feel free to ⭐ the repo!
+
 
